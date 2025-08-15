@@ -5,7 +5,7 @@ import { ColorModeToggle } from './components/color-mode-toggle';
 function App() {
   return (
     <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
-      <Center h="100vh" bg="gray.100">
+      <Center h="100vh">
         <Stack
           direction="row"
           alignItems="center"
@@ -13,7 +13,7 @@ function App() {
           py="4"
           rounded="xl"
           shadow="lg"
-          bg="white"
+          bg="bg.panel"
           gap="4"
         >
           <Circle size="5rem" overflow="hidden">
