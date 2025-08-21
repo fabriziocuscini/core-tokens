@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "65e078995d6a59d05f80e4c6e5e0aecfa27a24d8",
+    "name": "Web Core UI",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "tokens": "enabled",
+      "breakpoints": "enabled",
+      "semanticTokens/light": "enabled",
+      "semanticTokens/dark": "enabled"
+    }
+  }
+]
