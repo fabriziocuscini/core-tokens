@@ -5,7 +5,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "tokens": "enabled",
-      "breakpoints": "enabled",
       "semanticTokens/light": "enabled",
       "semanticTokens/dark": "enabled"
     }

@@ -1,7 +1,6 @@
 {
   "tokenSetOrder": [
     "tokens",
-    "breakpoints",
     "semanticTokens/light",
     "semanticTokens/dark"
   ]
