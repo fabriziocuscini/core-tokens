@@ -3,415 +3,415 @@
     "bg": {
       "default": {
         "$type": "color",
-        "$value": "{colors.black}"
+        "$value": "{black}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.gray.950}"
+        "$value": "{gray.950}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.gray.900}"
+        "$value": "{gray.900}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.gray.800}"
+        "$value": "{gray.800}"
       },
       "inverted": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "panel": {
         "$type": "color",
-        "$value": "{colors.gray.900}"
+        "$value": "{gray.900}"
       },
       "error": {
         "$type": "color",
-        "$value": "{colors.red.950}"
+        "$value": "{red.950}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{colors.orange.950}"
+        "$value": "{orange.950}"
       },
       "success": {
         "$type": "color",
-        "$value": "{colors.green.950}"
+        "$value": "{green.950}"
       },
       "info": {
         "$type": "color",
-        "$value": "{colors.blue.950}"
+        "$value": "{blue.950}"
       }
     },
     "fg": {
       "default": {
         "$type": "color",
-        "$value": "{colors.gray.50}"
+        "$value": "{gray.50}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.gray.400}"
+        "$value": "{gray.400}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.gray.500}"
+        "$value": "{gray.500}"
       },
       "inverted": {
         "$type": "color",
-        "$value": "{colors.black}"
+        "$value": "{black}"
       },
       "error": {
         "$type": "color",
-        "$value": "{colors.red.400}"
+        "$value": "{red.400}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{colors.orange.300}"
+        "$value": "{orange.300}"
       },
       "success": {
         "$type": "color",
-        "$value": "{colors.green.300}"
+        "$value": "{green.300}"
       },
       "info": {
         "$type": "color",
-        "$value": "{colors.blue.300}"
+        "$value": "{blue.300}"
       }
     },
     "border": {
       "default": {
         "$type": "color",
-        "$value": "{colors.gray.800}"
+        "$value": "{gray.800}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.gray.900}"
+        "$value": "{gray.900}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.gray.950}"
+        "$value": "{gray.950}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.gray.700}"
+        "$value": "{gray.700}"
       },
       "inverted": {
         "$type": "color",
-        "$value": "{colors.gray.200}"
+        "$value": "{gray.200}"
       },
       "error": {
         "$type": "color",
-        "$value": "{colors.red.400}"
+        "$value": "{red.400}"
       },
       "warning": {
         "$type": "color",
-        "$value": "{colors.orange.400}"
+        "$value": "{orange.400}"
       },
       "success": {
         "$type": "color",
-        "$value": "{colors.green.400}"
+        "$value": "{green.400}"
       },
       "info": {
         "$type": "color",
-        "$value": "{colors.blue.400}"
+        "$value": "{blue.400}"
       }
     },
     "gray": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.black}"
+        "$value": "{black}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.gray.200}"
+        "$value": "{gray.200}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.gray.900}"
+        "$value": "{gray.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.gray.800}"
+        "$value": "{gray.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.gray.700}"
+        "$value": "{gray.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.gray.400}"
+        "$value": "{gray.400}"
       }
     },
     "red": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.red.300}"
+        "$value": "{red.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.red.900}"
+        "$value": "{red.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.red.800}"
+        "$value": "{red.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.red.700}"
+        "$value": "{red.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.red.600}"
+        "$value": "{red.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.red.500}"
+        "$value": "{red.500}"
       }
     },
     "orange": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.black}"
+        "$value": "{black}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.orange.300}"
+        "$value": "{orange.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.orange.900}"
+        "$value": "{orange.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.orange.800}"
+        "$value": "{orange.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.orange.700}"
+        "$value": "{orange.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.orange.500}"
+        "$value": "{orange.500}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.orange.500}"
+        "$value": "{orange.500}"
       }
     },
     "green": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.green.300}"
+        "$value": "{green.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.green.900}"
+        "$value": "{green.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.green.800}"
+        "$value": "{green.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.green.700}"
+        "$value": "{green.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.green.600}"
+        "$value": "{green.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.green.500}"
+        "$value": "{green.500}"
       }
     },
     "blue": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.blue.300}"
+        "$value": "{blue.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.blue.900}"
+        "$value": "{blue.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.blue.800}"
+        "$value": "{blue.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.blue.700}"
+        "$value": "{blue.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.blue.600}"
+        "$value": "{blue.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.blue.500}"
+        "$value": "{blue.500}"
       }
     },
     "yellow": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.black}"
+        "$value": "{black}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.yellow.300}"
+        "$value": "{yellow.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.yellow.900}"
+        "$value": "{yellow.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.yellow.800}"
+        "$value": "{yellow.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.yellow.700}"
+        "$value": "{yellow.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.yellow.300}"
+        "$value": "{yellow.300}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.yellow.500}"
+        "$value": "{yellow.500}"
       }
     },
     "teal": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.teal.300}"
+        "$value": "{teal.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.teal.900}"
+        "$value": "{teal.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.teal.800}"
+        "$value": "{teal.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.teal.700}"
+        "$value": "{teal.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.teal.600}"
+        "$value": "{teal.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.teal.500}"
+        "$value": "{teal.500}"
       }
     },
     "purple": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.purple.300}"
+        "$value": "{purple.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.purple.900}"
+        "$value": "{purple.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.purple.800}"
+        "$value": "{purple.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.purple.700}"
+        "$value": "{purple.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.purple.600}"
+        "$value": "{purple.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.purple.500}"
+        "$value": "{purple.500}"
       }
     },
     "pink": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.pink.300}"
+        "$value": "{pink.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.pink.900}"
+        "$value": "{pink.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.pink.800}"
+        "$value": "{pink.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.pink.700}"
+        "$value": "{pink.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.pink.600}"
+        "$value": "{pink.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.pink.500}"
+        "$value": "{pink.500}"
       }
     },
     "cyan": {
       "contrast": {
         "$type": "color",
-        "$value": "{colors.white}"
+        "$value": "{white}"
       },
       "fg": {
         "$type": "color",
-        "$value": "{colors.cyan.300}"
+        "$value": "{cyan.300}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.cyan.900}"
+        "$value": "{cyan.900}"
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.cyan.800}"
+        "$value": "{cyan.800}"
       },
       "emphasized": {
         "$type": "color",
-        "$value": "{colors.cyan.700}"
+        "$value": "{cyan.700}"
       },
       "solid": {
         "$type": "color",
-        "$value": "{colors.cyan.600}"
+        "$value": "{cyan.600}"
       },
       "focusRing": {
         "$type": "color",
-        "$value": "{colors.cyan.500}"
+        "$value": "{cyan.500}"
       }
     }
   }
