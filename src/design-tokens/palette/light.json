@@ -1,418 +1,416 @@
 {
-  "colors": {
-    "bg": {
-      "default": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{gray.50}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{gray.100}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{gray.200}"
-      },
-      "inverted": {
-        "$type": "color",
-        "$value": "{black}"
-      },
-      "panel": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "error": {
-        "$type": "color",
-        "$value": "{red.50}"
-      },
-      "warning": {
-        "$type": "color",
-        "$value": "{orange.50}"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "{green.50}"
-      },
-      "info": {
-        "$type": "color",
-        "$value": "{blue.50}"
-      }
+  "bg": {
+    "default": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.50}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{gray.100}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{gray.200}"
+    },
+    "inverted": {
+      "$type": "color",
+      "$value": "{black}"
+    },
+    "panel": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "{red.50}"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{orange.50}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{green.50}"
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{blue.50}"
+    }
+  },
+  "fg": {
+    "default": {
+      "$type": "color",
+      "$value": "{black}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{gray.600}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.400}"
+    },
+    "inverted": {
+      "$type": "color",
+      "$value": "{gray.50}"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "{red.500}"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{orange.600}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{green.600}"
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{blue.600}"
+    }
+  },
+  "border": {
+    "default": {
+      "$type": "color",
+      "$value": "{gray.200}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{gray.100}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.50}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{gray.300}"
+    },
+    "inverted": {
+      "$type": "color",
+      "$value": "{gray.800}"
+    },
+    "error": {
+      "$type": "color",
+      "$value": "{red.500}"
+    },
+    "warning": {
+      "$type": "color",
+      "$value": "{orange.500}"
+    },
+    "success": {
+      "$type": "color",
+      "$value": "{green.500}"
+    },
+    "info": {
+      "$type": "color",
+      "$value": "{blue.500}"
+    }
+  },
+  "gray": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
     },
     "fg": {
-      "default": {
-        "$type": "color",
-        "$value": "{black}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{gray.600}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{gray.400}"
-      },
-      "inverted": {
-        "$type": "color",
-        "$value": "{gray.50}"
-      },
-      "error": {
-        "$type": "color",
-        "$value": "{red.500}"
-      },
-      "warning": {
-        "$type": "color",
-        "$value": "{orange.600}"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "{green.600}"
-      },
-      "info": {
-        "$type": "color",
-        "$value": "{blue.600}"
-      }
+      "$type": "color",
+      "$value": "{gray.800}"
     },
-    "border": {
-      "default": {
-        "$type": "color",
-        "$value": "{gray.200}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{gray.100}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{gray.50}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{gray.300}"
-      },
-      "inverted": {
-        "$type": "color",
-        "$value": "{gray.800}"
-      },
-      "error": {
-        "$type": "color",
-        "$value": "{red.500}"
-      },
-      "warning": {
-        "$type": "color",
-        "$value": "{orange.500}"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "{green.500}"
-      },
-      "info": {
-        "$type": "color",
-        "$value": "{blue.500}"
-      }
+    "subtle": {
+      "$type": "color",
+      "$value": "{gray.100}"
     },
-    "gray": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{gray.800}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{gray.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{gray.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{gray.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{gray.900}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{gray.400}"
-      }
+    "muted": {
+      "$type": "color",
+      "$value": "{gray.200}"
     },
-    "red": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{red.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{red.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{red.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{red.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{red.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{red.500}"
-      }
+    "emphasized": {
+      "$type": "color",
+      "$value": "{gray.300}"
     },
-    "orange": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{orange.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{orange.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{orange.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{orange.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{orange.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{orange.500}"
-      }
+    "solid": {
+      "$type": "color",
+      "$value": "{gray.900}"
     },
-    "green": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{green.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{green.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{green.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{green.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{green.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{green.500}"
-      }
+    "focusRing": {
+      "$type": "color",
+      "$value": "{gray.400}"
+    }
+  },
+  "red": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
     },
-    "blue": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{blue.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{blue.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{blue.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{blue.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{blue.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{blue.500}"
-      }
+    "fg": {
+      "$type": "color",
+      "$value": "{red.700}"
     },
-    "yellow": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{black}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{yellow.800}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{yellow.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{yellow.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{yellow.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{yellow.300}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{yellow.500}"
-      }
+    "subtle": {
+      "$type": "color",
+      "$value": "{red.100}"
     },
-    "teal": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{teal.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{teal.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{teal.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{teal.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{teal.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{teal.500}"
-      }
+    "muted": {
+      "$type": "color",
+      "$value": "{red.200}"
     },
-    "purple": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{purple.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{purple.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{purple.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{purple.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{purple.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{purple.500}"
-      }
+    "emphasized": {
+      "$type": "color",
+      "$value": "{red.300}"
     },
-    "pink": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{pink.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{pink.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{pink.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{pink.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{pink.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{pink.500}"
-      }
+    "solid": {
+      "$type": "color",
+      "$value": "{red.600}"
     },
-    "cyan": {
-      "contrast": {
-        "$type": "color",
-        "$value": "{white}"
-      },
-      "fg": {
-        "$type": "color",
-        "$value": "{cyan.700}"
-      },
-      "subtle": {
-        "$type": "color",
-        "$value": "{cyan.100}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{cyan.200}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{cyan.300}"
-      },
-      "solid": {
-        "$type": "color",
-        "$value": "{cyan.600}"
-      },
-      "focusRing": {
-        "$type": "color",
-        "$value": "{cyan.500}"
-      }
+    "focusRing": {
+      "$type": "color",
+      "$value": "{red.500}"
+    }
+  },
+  "orange": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{orange.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{orange.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{orange.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{orange.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{orange.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{orange.500}"
+    }
+  },
+  "green": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{green.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{green.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{green.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{green.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{green.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{green.500}"
+    }
+  },
+  "blue": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{blue.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{blue.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{blue.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{blue.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{blue.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{blue.500}"
+    }
+  },
+  "yellow": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{black}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{yellow.800}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{yellow.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{yellow.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{yellow.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{yellow.300}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{yellow.500}"
+    }
+  },
+  "teal": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{teal.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{teal.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{teal.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{teal.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{teal.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{teal.500}"
+    }
+  },
+  "purple": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{purple.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{purple.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{purple.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{purple.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{purple.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{purple.500}"
+    }
+  },
+  "pink": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{pink.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{pink.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{pink.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{pink.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{pink.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{pink.500}"
+    }
+  },
+  "cyan": {
+    "contrast": {
+      "$type": "color",
+      "$value": "{white}"
+    },
+    "fg": {
+      "$type": "color",
+      "$value": "{cyan.700}"
+    },
+    "subtle": {
+      "$type": "color",
+      "$value": "{cyan.100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{cyan.200}"
+    },
+    "emphasized": {
+      "$type": "color",
+      "$value": "{cyan.300}"
+    },
+    "solid": {
+      "$type": "color",
+      "$value": "{cyan.600}"
+    },
+    "focusRing": {
+      "$type": "color",
+      "$value": "{cyan.500}"
     }
   }
 }
