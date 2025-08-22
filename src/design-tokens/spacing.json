@@ -1,0 +1,191 @@
+{
+  "spacing": {
+    "1": {
+      "$type": "spacing",
+      "$value": "4px",
+      "$description": "1 unit — minimal spacing for icons, tight component gaps."
+    },
+    "2": {
+      "$type": "spacing",
+      "$value": "8px",
+      "$description": "2 units — small spacing for compact layouts or small padding."
+    },
+    "3": {
+      "$type": "spacing",
+      "$value": "12px",
+      "$description": "3 units — in-between spacing for small elements, tighter grouping."
+    },
+    "4": {
+      "$type": "spacing",
+      "$value": "16px",
+      "$description": "4 units — base spacing; standard gap between related elements."
+    },
+    "5": {
+      "$type": "spacing",
+      "$value": "20px",
+      "$description": "5 units — medium spacing for comfortable separation in content."
+    },
+    "6": {
+      "$type": "spacing",
+      "$value": "24px",
+      "$description": "6 units — larger padding for cards, sections, and container edges."
+    },
+    "7": {
+      "$type": "spacing",
+      "$value": "28px",
+      "$description": "7 units — generous spacing for clear separation of grouped content."
+    },
+    "8": {
+      "$type": "spacing",
+      "$value": "32px",
+      "$description": "8 units — section-level spacing in layouts."
+    },
+    "9": {
+      "$type": "spacing",
+      "$value": "36px",
+      "$description": "9 units — large gap for distinct visual separation."
+    },
+    "10": {
+      "$type": "spacing",
+      "$value": "40px",
+      "$description": "10 units — ideal for whitespace in clean, spacious layouts."
+    },
+    "11": {
+      "$type": "spacing",
+      "$value": "44px",
+      "$description": "11 units — specific use for tall UI elements or large button padding."
+    },
+    "12": {
+      "$type": "spacing",
+      "$value": "48px",
+      "$description": "12 units — extra large spacing for major section separation."
+    },
+    "14": {
+      "$type": "spacing",
+      "$value": "56px",
+      "$description": "14 units — large whitespace for prominent layout breaks."
+    },
+    "16": {
+      "$type": "spacing",
+      "$value": "64px",
+      "$description": "16 units — significant gap for distinct content areas."
+    },
+    "20": {
+      "$type": "spacing",
+      "$value": "80px",
+      "$description": "20 units — very large spacing, used sparingly for emphasis."
+    },
+    "24": {
+      "$type": "spacing",
+      "$value": "96px",
+      "$description": "24 units — substantial whitespace for hero sections or major dividers."
+    },
+    "28": {
+      "$type": "spacing",
+      "$value": "112px",
+      "$description": "28 units — very wide spacing for oversized layouts or banners."
+    },
+    "32": {
+      "$type": "spacing",
+      "$value": "128px",
+      "$description": "32 units — extra-wide spacing for full-screen layout breaks."
+    },
+    "36": {
+      "$type": "spacing",
+      "$value": "144px",
+      "$description": "36 units — large whitespace for immersive content separation."
+    },
+    "40": {
+      "$type": "spacing",
+      "$value": "160px",
+      "$description": "40 units — maximum spacing for distinct visual segmentation."
+    },
+    "44": {
+      "$type": "spacing",
+      "$value": "176px",
+      "$description": "44 units — ultra-large spacing for special layout cases."
+    },
+    "48": {
+      "$type": "spacing",
+      "$value": "192px",
+      "$description": "48 units — expansive gap for hero content or visual breathing space."
+    },
+    "52": {
+      "$type": "spacing",
+      "$value": "208px",
+      "$description": "52 units — oversized spacing for full-width banners or sections."
+    },
+    "56": {
+      "$type": "spacing",
+      "$value": "224px",
+      "$description": "56 units — extreme whitespace for premium layouts."
+    },
+    "60": {
+      "$type": "spacing",
+      "$value": "240px",
+      "$description": "60 units — extreme spacing, rarely used except for very large displays."
+    },
+    "64": {
+      "$type": "spacing",
+      "$value": "256px",
+      "$description": "64 units — massive gap for bold visual separation."
+    },
+    "72": {
+      "$type": "spacing",
+      "$value": "288px",
+      "$description": "72 units — super large spacing for cinematic layouts."
+    },
+    "80": {
+      "$type": "spacing",
+      "$value": "320px",
+      "$description": "80 units — largest standard spacing token, for standout layout divisions."
+    },
+    "96": {
+      "$type": "spacing",
+      "$value": "384px",
+      "$description": "96 units — exceptional spacing for rare, impactful design moments."
+    },
+    "half": {
+      "$type": "spacing",
+      "$value": "2px",
+      "$description": "Half unit — smallest spacing for fine adjustments, hairline gaps."
+    }
+  },
+  "gap": {
+    "tight": {
+      "$type": "spacing",
+      "$value": "{spacing.half}",
+      "$description": "Extremely tight spacing (2px) — useful for dense UI like tables or micro-adjustments."
+    },
+    "compact": {
+      "$type": "spacing",
+      "$value": "{spacing.1}",
+      "$description": "Compact spacing (4px) — minimal whitespace for efficient layouts."
+    },
+    "comfortable": {
+      "$type": "spacing",
+      "$value": "{spacing.2}",
+      "$description": "Comfortable spacing (8px) — balanced whitespace for everyday use."
+    },
+    "spacious": {
+      "$type": "spacing",
+      "$value": "{spacing.3}",
+      "$description": "Spacious spacing (12px) — airy layouts with clearer separation."
+    },
+    "wide": {
+      "$type": "spacing",
+      "$value": "{spacing.4}",
+      "$description": "Wide spacing (16px) — structural separation for layout grids and components."
+    },
+    "generous": {
+      "$type": "spacing",
+      "$value": "{spacing.6}",
+      "$description": "Generous spacing (24px) — strong visual breathing room for sections."
+    },
+    "loose": {
+      "$type": "spacing",
+      "$value": "{spacing.8}",
+      "$description": "Loose spacing (32px) — dramatic whitespace for hero layouts or emphasis."
+    }
+  }
+}

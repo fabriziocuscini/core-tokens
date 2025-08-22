@@ -1,0 +1,44 @@
+{
+  "viewport": {
+    "start": {
+      "$type": "sizing",
+      "$value": "{breakpoints.sm}"
+    },
+    "end": {
+      "$type": "sizing",
+      "$value": "{breakpoints.lg} - 1px"
+    },
+    "name": {
+      "$type": "text",
+      "$value": "Tablet"
+    }
+  },
+  "canvas": {
+    "min-width": {
+      "$type": "sizing",
+      "$value": "{viewport.start}"
+    },
+    "max-width": {
+      "$type": "sizing",
+      "$value": "{viewport.end}"
+    },
+    "default-width": {
+      "$type": "sizing",
+      "$value": "1024px"
+    },
+    "min-height": {
+      "$type": "sizing",
+      "$value": "768px"
+    }
+  },
+  "grid": {
+    "gutter": {
+      "$type": "spacing",
+      "$value": "{gap.spacious}"
+    },
+    "max-width": {
+      "$type": "sizing",
+      "$value": "1200px"
+    }
+  }
+}

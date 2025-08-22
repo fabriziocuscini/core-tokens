@@ -1,0 +1,44 @@
+{
+  "viewport": {
+    "start": {
+      "$type": "sizing",
+      "$value": "{breakpoints.3xl}"
+    },
+    "end": {
+      "$type": "sizing",
+      "$value": "{breakpoints.4xl} - 1px"
+    },
+    "name": {
+      "$type": "text",
+      "$value": "QHD"
+    }
+  },
+  "canvas": {
+    "min-width": {
+      "$type": "sizing",
+      "$value": "{viewport.start}"
+    },
+    "max-width": {
+      "$type": "sizing",
+      "$value": "{viewport.end}"
+    },
+    "default-width": {
+      "$type": "sizing",
+      "$value": "{devices.qhd}"
+    },
+    "min-height": {
+      "$type": "sizing",
+      "$value": "1440px"
+    }
+  },
+  "grid": {
+    "gutter": {
+      "$type": "spacing",
+      "$value": "{gap.loose}"
+    },
+    "max-width": {
+      "$type": "sizing",
+      "$value": "2000px"
+    }
+  }
+}
