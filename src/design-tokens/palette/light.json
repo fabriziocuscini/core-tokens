@@ -44,7 +44,7 @@
   "fg": {
     "default": {
       "$type": "color",
-      "$value": "{black}"
+      "$value": "{gray.900}"
     },
     "muted": {
       "$type": "color",
