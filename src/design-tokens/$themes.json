@@ -264,72 +264,6 @@
     "group": "tokens"
   },
   {
-    "id": "47c08578e9884b7817234bc72c87d5eab2166503",
-    "name": "Full HD",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "viewports/Full HD": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:73:245",
-    "$figmaModeId": "73:7",
-    "$figmaVariableReferences": {
-      "viewport.start": "f7606f1f52257566ff7162461c21c0f3c2eaace9",
-      "viewport.end": "da272fb04517e0cb4b6837f6f0428facee288728",
-      "viewport.name": "f1ce059440fa553186c35e43c783fe46a9587a04",
-      "canvas.min-width": "6252a0c4938659e360b54e03c30d3a8c2844f567",
-      "canvas.max-width": "df47bb05baa180f7fc8146fe4e77604eb2eade27",
-      "canvas.default-width": "5aa7f0be5f8355e0dbbb81ef0be8d71373e6f9db",
-      "canvas.min-height": "1bc4ea63c41a3738738c502ef87e517e37a9952f",
-      "grid.gutter": "a147f2541f20594308763c75979778f8c3f99a9c",
-      "grid.max-width": "8c5407ad33ffcfda12f4640913d87c66f556014f"
-    },
-    "group": "viewports"
-  },
-  {
-    "id": "b2f99634f8b237843947a636deffd16df9205ab6",
-    "name": "QHD",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "viewports/QHD": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:73:245",
-    "$figmaModeId": "73:8",
-    "$figmaVariableReferences": {
-      "viewport.start": "f7606f1f52257566ff7162461c21c0f3c2eaace9",
-      "viewport.end": "da272fb04517e0cb4b6837f6f0428facee288728",
-      "viewport.name": "f1ce059440fa553186c35e43c783fe46a9587a04",
-      "canvas.min-width": "6252a0c4938659e360b54e03c30d3a8c2844f567",
-      "canvas.max-width": "df47bb05baa180f7fc8146fe4e77604eb2eade27",
-      "canvas.default-width": "5aa7f0be5f8355e0dbbb81ef0be8d71373e6f9db",
-      "canvas.min-height": "1bc4ea63c41a3738738c502ef87e517e37a9952f",
-      "grid.gutter": "a147f2541f20594308763c75979778f8c3f99a9c",
-      "grid.max-width": "8c5407ad33ffcfda12f4640913d87c66f556014f"
-    },
-    "group": "viewports"
-  },
-  {
-    "id": "d5cc991bd2cfb3ff9662ec19007b521855a70cc5",
-    "name": "Laptop",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "viewports/Laptop": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:73:245",
-    "$figmaModeId": "73:9",
-    "$figmaVariableReferences": {
-      "viewport.start": "f7606f1f52257566ff7162461c21c0f3c2eaace9",
-      "viewport.end": "da272fb04517e0cb4b6837f6f0428facee288728",
-      "viewport.name": "f1ce059440fa553186c35e43c783fe46a9587a04",
-      "canvas.min-width": "6252a0c4938659e360b54e03c30d3a8c2844f567",
-      "canvas.max-width": "df47bb05baa180f7fc8146fe4e77604eb2eade27",
-      "canvas.default-width": "5aa7f0be5f8355e0dbbb81ef0be8d71373e6f9db",
-      "canvas.min-height": "1bc4ea63c41a3738738c502ef87e517e37a9952f",
-      "grid.gutter": "a147f2541f20594308763c75979778f8c3f99a9c",
-      "grid.max-width": "8c5407ad33ffcfda12f4640913d87c66f556014f"
-    },
-    "group": "viewports"
-  },
-  {
     "id": "7965a893f475595f46d9e50ab7d94758489977d6",
     "name": "Tablet",
     "$figmaStyleReferences": {},
@@ -435,7 +369,6 @@
     "selectedTokenSets": {
       "colors": "enabled"
     },
-    "group": "colors",
     "$figmaCollectionId": "VariableCollectionId:73:248",
     "$figmaModeId": "73:13",
     "$figmaVariableReferences": {
@@ -654,7 +587,8 @@
       "transparent": "f0ba54d932d194db1a6931d1f9d28c3d251a764a",
       "white": "7b13c7e9beca248669235624de32f163edcfb17c",
       "black": "1df26dcfa429be60cbf8aae3c97ea4652e774210"
-    }
+    },
+    "group": "colors"
   },
   {
     "id": "6fae7856117e4799d64adcb7f7d65a9d9b8c6bcb",
