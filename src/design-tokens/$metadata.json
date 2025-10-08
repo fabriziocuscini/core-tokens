@@ -7,9 +7,7 @@
     "colors",
     "palette/light",
     "palette/dark",
-    "viewports/Full HD",
-    "viewports/QHD",
-    "viewports/Laptop",
-    "viewports/Tablet"
+    "viewports/lg",
+    "viewports/md"
   ]
 }

@@ -2,15 +2,15 @@
   "viewport": {
     "start": {
       "$type": "sizing",
-      "$value": "{breakpoints.sm}"
+      "$value": "{breakpoints.lg}"
     },
     "end": {
       "$type": "sizing",
-      "$value": "{breakpoints.lg} - 1px"
+      "$value": "{breakpoints.2xl} - 1px"
     },
     "name": {
       "$type": "text",
-      "$value": "Tablet"
+      "$value": "Laptop"
     }
   },
   "canvas": {
@@ -24,21 +24,21 @@
     },
     "default-width": {
       "$type": "sizing",
-      "$value": "1024px"
+      "$value": "1650px"
     },
     "min-height": {
       "$type": "sizing",
-      "$value": "768px"
+      "$value": "900px"
     }
   },
   "grid": {
     "gutter": {
       "$type": "spacing",
-      "$value": "{gap.spacious}"
+      "$value": "{gap.lg}"
     },
     "max-width": {
       "$type": "sizing",
-      "$value": "1200px"
+      "$value": "1440px"
     }
   }
 }

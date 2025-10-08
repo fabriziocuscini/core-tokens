@@ -334,7 +334,7 @@
     "name": "Tablet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "viewports/Tablet": "enabled"
+      "viewports/md": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:73:245",
     "$figmaModeId": "73:10",
