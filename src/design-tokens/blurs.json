@@ -22,28 +22,18 @@
     },
     "lg": {
       "$type": "dimension",
-      "$value": "12px",
+      "$value": "16px",
       "$description": "Large blur — visible softening for emphasis or layering."
     },
     "xl": {
       "$type": "dimension",
-      "$value": "16px",
+      "$value": "24px",
       "$description": "Extra large blur — strong softness for overlays or glass effects."
     },
     "2xl": {
       "$type": "dimension",
-      "$value": "24px",
-      "$description": "Double extra large blur — deep background separation and depth."
-    },
-    "3xl": {
-      "$type": "dimension",
       "$value": "32px",
-      "$description": "Triple extra large blur — heavy atmospheric softness for dramatic depth."
-    },
-    "4xl": {
-      "$type": "dimension",
-      "$value": "48px",
-      "$description": "Quadruple extra large blur — extreme softness for immersive visual effects."
+      "$description": "Double extra large blur — deep background separation and depth."
     }
   }
 }
