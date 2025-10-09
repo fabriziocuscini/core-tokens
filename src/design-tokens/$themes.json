@@ -208,29 +208,6 @@
     "group": "palette"
   },
   {
-    "id": "11ca92d09cce2746a361503fbacc05ffd8788c0a",
-    "name": "xl",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints": "source",
-      "viewports/xl": "enabled"
-    },
-    "$figmaCollectionId": "VariableCollectionId:110:2454",
-    "$figmaModeId": "110:32",
-    "$figmaVariableReferences": {
-      "viewport.start": "106aefb331f33a0a8c026e14608b8a6479dd5b30",
-      "viewport.end": "d0b4b95929589688c71ebbd2c2c06d1d5a41c921",
-      "canvas.min-width": "70a613b25fe9c6d9ef4e8577f3fb6268b3745462",
-      "canvas.max-width": "40407f6ed46948da42b4f49d6fa54b0acce1b46e",
-      "canvas.default-width": "333e10a85b605ff800f1c6ece7dd3c4cdbc967c7",
-      "canvas.min-height": "b2bb3400a0b546808af8e0c2352da04b5f735c5a",
-      "grid.spacing": "b6bb4577eda4cbac5dac9b7790b69dc09381deec",
-      "grid.px": "03f549b2634c1bb9d481673b3a74a03c3c9ccf63",
-      "grid.py": "3887f5a0077a8e48d078c0fda4b7eabfd194a419"
-    },
-    "group": "viewports"
-  },
-  {
     "id": "f7c8745364207d115d61121c8f5e0c6ee760d885",
     "name": "lg",
     "$figmaStyleReferences": {},
@@ -275,5 +252,28 @@
       "grid.py": "3887f5a0077a8e48d078c0fda4b7eabfd194a419"
     },
     "group": "viewports"
+  },
+  {
+    "id": "11ca92d09cce2746a361503fbacc05ffd8788c0a",
+    "name": "xl",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints": "source",
+      "viewports/xl": "enabled"
+    },
+    "group": "viewports",
+    "$figmaCollectionId": "VariableCollectionId:110:2454",
+    "$figmaModeId": "110:32",
+    "$figmaVariableReferences": {
+      "viewport.start": "106aefb331f33a0a8c026e14608b8a6479dd5b30",
+      "viewport.end": "d0b4b95929589688c71ebbd2c2c06d1d5a41c921",
+      "canvas.min-width": "70a613b25fe9c6d9ef4e8577f3fb6268b3745462",
+      "canvas.max-width": "40407f6ed46948da42b4f49d6fa54b0acce1b46e",
+      "canvas.default-width": "333e10a85b605ff800f1c6ece7dd3c4cdbc967c7",
+      "canvas.min-height": "b2bb3400a0b546808af8e0c2352da04b5f735c5a",
+      "grid.spacing": "b6bb4577eda4cbac5dac9b7790b69dc09381deec",
+      "grid.px": "03f549b2634c1bb9d481673b3a74a03c3c9ccf63",
+      "grid.py": "3887f5a0077a8e48d078c0fda4b7eabfd194a419"
+    }
   }
 ]
