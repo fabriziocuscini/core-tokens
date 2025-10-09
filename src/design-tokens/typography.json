@@ -2,40 +2,40 @@
   "fontSizes": {
     "2xs": {
       "$type": "fontSizes",
-      "$value": "0.625rem"
+      "$value": "0.5625rem"
     },
     "xs": {
       "$type": "fontSizes",
-      "$value": "0.75rem"
+      "$value": "0.6875rem"
     },
     "sm": {
       "$type": "fontSizes",
-      "$value": "0.875rem"
+      "$value": "0.75rem"
     },
     "md": {
       "$type": "fontSizes",
-      "$value": "1rem",
+      "$value": "0.875rem",
       "$description": "Medium (default) font size. On web this usually equals to 16px, or 1rem"
     },
     "lg": {
       "$type": "fontSizes",
-      "$value": "1.125rem"
+      "$value": "1rem"
     },
     "xl": {
       "$type": "fontSizes",
-      "$value": "1.25rem"
+      "$value": "1.125rem"
     },
     "2xl": {
       "$type": "fontSizes",
-      "$value": "1.5rem"
+      "$value": "1.25rem"
     },
     "3xl": {
       "$type": "fontSizes",
-      "$value": "1.875rem"
+      "$value": "1.5rem"
     },
     "4xl": {
       "$type": "fontSizes",
-      "$value": "2.25rem"
+      "$value": "2rem"
     },
     "5xl": {
       "$type": "fontSizes",
@@ -43,19 +43,7 @@
     },
     "6xl": {
       "$type": "fontSizes",
-      "$value": "3.75rem"
-    },
-    "7xl": {
-      "$type": "fontSizes",
-      "$value": "4.5rem"
-    },
-    "8xl": {
-      "$type": "fontSizes",
-      "$value": "6rem"
-    },
-    "9xl": {
-      "$type": "fontSizes",
-      "$value": "8rem"
+      "$value": "4rem"
     }
   },
   "fontWeights": {
