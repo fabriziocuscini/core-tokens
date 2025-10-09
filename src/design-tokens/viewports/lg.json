@@ -6,11 +6,7 @@
     },
     "end": {
       "$type": "sizing",
-      "$value": "{breakpoints.2xl} - 1px"
-    },
-    "name": {
-      "$type": "text",
-      "$value": "Laptop"
+      "$value": "{breakpoints.xl} - 1px"
     }
   },
   "canvas": {
@@ -32,13 +28,17 @@
     }
   },
   "grid": {
-    "gutter": {
+    "spacing": {
       "$type": "spacing",
-      "$value": "{gap.lg}"
+      "$value": "{gap.md}"
     },
-    "max-width": {
-      "$type": "sizing",
-      "$value": "1440px"
+    "px": {
+      "$type": "spacing",
+      "$value": "{spacing.4}"
+    },
+    "py": {
+      "$type": "spacing",
+      "$value": "{spacing.4}"
     }
   }
 }

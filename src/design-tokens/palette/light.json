@@ -5,53 +5,23 @@
         "$type": "color",
         "$value": "{colors.white.default}"
       },
-      "subtle": {
-        "$type": "color",
-        "$value": "{colors.gray.50}"
-      },
-      "muted": {
-        "$type": "color",
-        "$value": "{colors.gray.100}"
-      },
-      "emphasized": {
-        "$type": "color",
-        "$value": "{colors.gray.200}"
+      "surface": {
+        "level-1": {
+          "$type": "color",
+          "$value": "{colors.gray.50}"
+        },
+        "level-2": {
+          "$type": "color",
+          "$value": "{colors.gray.100}"
+        },
+        "level-3": {
+          "$type": "color",
+          "$value": "{colors.gray.200}"
+        }
       },
       "inverted": {
         "$type": "color",
         "$value": "{colors.black.default}"
-      },
-      "panel": {
-        "$type": "color",
-        "$value": "{colors.white.default}"
-      },
-      "error": {
-        "$type": "color",
-        "$value": "{colors.red.50}"
-      },
-      "warning": {
-        "$type": "color",
-        "$value": "{colors.orange.50}"
-      },
-      "success": {
-        "$type": "color",
-        "$value": "{colors.green.50}"
-      },
-      "info": {
-        "$type": "color",
-        "$value": "{colors.blue.50}"
-      },
-      "level-1": {
-        "$type": "color",
-        "$value": "{colors.gray.50}"
-      },
-      "level-2": {
-        "$type": "color",
-        "$value": "{colors.gray.100}"
-      },
-      "level-3": {
-        "$type": "color",
-        "$value": "{colors.gray.150}"
       }
     },
     "fg": {
@@ -69,7 +39,7 @@
       },
       "inverted": {
         "$type": "color",
-        "$value": "{colors.gray.50}"
+        "$value": "{colors.white.default}"
       },
       "error": {
         "$type": "color",
@@ -77,18 +47,18 @@
       },
       "warning": {
         "$type": "color",
-        "$value": "{colors.orange.600}"
+        "$value": "{colors.orange.500}"
       },
       "success": {
         "$type": "color",
-        "$value": "{colors.green.600}"
+        "$value": "{colors.green.500}"
       },
       "info": {
         "$type": "color",
-        "$value": "{colors.blue.600}"
+        "$value": "{colors.blue.500}"
       }
     },
-    "border": {
+    "divider": {
       "default": {
         "$type": "color",
         "$value": "{colors.gray.200}"
@@ -126,7 +96,7 @@
         "$value": "{colors.blue.500}"
       }
     },
-    "gray": {
+    "neutral": {
       "contrast": {
         "$type": "color",
         "$value": "{colors.white.default}"

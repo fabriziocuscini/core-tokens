@@ -2,11 +2,11 @@
   "viewport": {
     "start": {
       "$type": "sizing",
-      "$value": "{breakpoints.md}"
+      "$value": "{breakpoints.xl}"
     },
     "end": {
       "$type": "sizing",
-      "$value": "{breakpoints.lg} - 1px"
+      "$value": "{breakpoints.2xl} - 1px"
     }
   },
   "canvas": {
@@ -20,25 +20,25 @@
     },
     "default-width": {
       "$type": "sizing",
-      "$value": "{viewport.start}"
+      "$value": "1920px"
     },
     "min-height": {
       "$type": "sizing",
-      "$value": "768px"
+      "$value": "1080px"
     }
   },
   "grid": {
     "spacing": {
       "$type": "spacing",
-      "$value": "{gap.md}"
+      "$value": "{gap.lg}"
     },
     "px": {
       "$type": "spacing",
-      "$value": "{spacing.2}"
+      "$value": "{spacing.6}"
     },
     "py": {
       "$type": "spacing",
-      "$value": "{spacing.2}"
+      "$value": "{spacing.6}"
     }
   }
 }

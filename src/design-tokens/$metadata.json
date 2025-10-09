@@ -8,8 +8,9 @@
     "typography",
     "spacing",
     "colors",
-    "palette/light",
     "palette/dark",
+    "palette/light",
+    "viewports/xl",
     "viewports/lg",
     "viewports/md"
   ]
