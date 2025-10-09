@@ -1,7 +1,10 @@
 {
   "tokenSetOrder": [
+    "durations",
+    "borderWidths",
     "breakpoints",
-    "tokens",
+    "radii",
+    "blurs",
     "typography",
     "spacing",
     "colors",

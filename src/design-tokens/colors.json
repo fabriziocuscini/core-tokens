@@ -780,173 +780,177 @@
         "$value": "#12020a"
       }
     },
-    "whiteAlpha": {
-      "5": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.05)"
+    "white": {
+      "alpha": {
+        "5": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.05)"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.1)"
+        },
+        "15": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.15)"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.2)"
+        },
+        "25": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.25)"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.3)"
+        },
+        "35": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.35)"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.4)"
+        },
+        "45": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.45)"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.5)"
+        },
+        "55": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.55)"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.6)"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.65)"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.7)"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.75)"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.8)"
+        },
+        "85": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.85)"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.9)"
+        },
+        "95": {
+          "$type": "color",
+          "$value": "rgba(255, 255, 255, 0.95)"
+        }
       },
-      "10": {
+      "default": {
         "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.1)"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.15)"
-      },
-      "20": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.2)"
-      },
-      "25": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.25)"
-      },
-      "30": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.3)"
-      },
-      "35": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.35)"
-      },
-      "40": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.4)"
-      },
-      "45": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.45)"
-      },
-      "50": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.5)"
-      },
-      "55": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.55)"
-      },
-      "60": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.6)"
-      },
-      "65": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.65)"
-      },
-      "70": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.7)"
-      },
-      "75": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.75)"
-      },
-      "80": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.8)"
-      },
-      "85": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.85)"
-      },
-      "90": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.9)"
-      },
-      "95": {
-        "$type": "color",
-        "$value": "rgba(255, 255, 255, 0.95)"
+        "$value": "#FFFFFF"
       }
     },
-    "blackAlpha": {
-      "5": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.05)"
+    "black": {
+      "alpha": {
+        "5": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.05)"
+        },
+        "10": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.1)"
+        },
+        "15": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.15)"
+        },
+        "20": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.2)"
+        },
+        "25": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.25)"
+        },
+        "30": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.3)"
+        },
+        "35": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.35)"
+        },
+        "40": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.4)"
+        },
+        "45": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.45)"
+        },
+        "50": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.5)"
+        },
+        "55": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.55)"
+        },
+        "60": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.6)"
+        },
+        "65": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.65)"
+        },
+        "70": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.7)"
+        },
+        "75": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.75)"
+        },
+        "80": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.8)"
+        },
+        "85": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.85)"
+        },
+        "90": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.9)"
+        },
+        "95": {
+          "$type": "color",
+          "$value": "rgba(0, 0, 0, 0.95)"
+        }
       },
-      "10": {
+      "default": {
         "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.1)"
-      },
-      "15": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.15)"
-      },
-      "20": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.2)"
-      },
-      "25": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.25)"
-      },
-      "30": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.3)"
-      },
-      "35": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.35)"
-      },
-      "40": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.4)"
-      },
-      "45": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.45)"
-      },
-      "50": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.5)"
-      },
-      "55": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.55)"
-      },
-      "60": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.6)"
-      },
-      "65": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.65)"
-      },
-      "70": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.7)"
-      },
-      "75": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.75)"
-      },
-      "80": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.8)"
-      },
-      "85": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.85)"
-      },
-      "90": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.9)"
-      },
-      "95": {
-        "$type": "color",
-        "$value": "rgba(0, 0, 0, 0.95)"
+        "$value": "#000000"
       }
     },
     "transparent": {
       "$type": "color",
       "$value": "rgba(255,255,255,0)"
-    },
-    "white": {
-      "$type": "color",
-      "$value": "#FFFFFF"
-    },
-    "black": {
-      "$type": "color",
-      "$value": "#000000"
     }
   }
 }

@@ -2,7 +2,7 @@
   "bg": {
     "default": {
       "$type": "color",
-      "$value": "{colors.black}"
+      "$value": "{colors.black.default}"
     },
     "subtle": {
       "$type": "color",
@@ -18,7 +18,7 @@
     },
     "inverted": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "panel": {
       "$type": "color",
@@ -39,12 +39,24 @@
     "info": {
       "$type": "color",
       "$value": "{colors.blue.950}"
+    },
+    "level-1": {
+      "$type": "color",
+      "$value": "{colors.gray.950}"
+    },
+    "level-2": {
+      "$type": "color",
+      "$value": "{colors.gray.900}"
+    },
+    "level-3": {
+      "$type": "color",
+      "$value": "{colors.gray.850}"
     }
   },
   "fg": {
     "default": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "muted": {
       "$type": "color",
@@ -56,7 +68,7 @@
     },
     "inverted": {
       "$type": "color",
-      "$value": "{colors.black}"
+      "$value": "{colors.black.default}"
     },
     "error": {
       "$type": "color",
@@ -116,7 +128,7 @@
   "gray": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.black}"
+      "$value": "{colors.black.default}"
     },
     "fg": {
       "$type": "color",
@@ -136,7 +148,7 @@
     },
     "solid": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "focusRing": {
       "$type": "color",
@@ -146,7 +158,7 @@
   "red": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",
@@ -176,7 +188,7 @@
   "orange": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.black}"
+      "$value": "{colors.black.default}"
     },
     "fg": {
       "$type": "color",
@@ -206,7 +218,7 @@
   "green": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",
@@ -236,7 +248,7 @@
   "blue": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",
@@ -266,7 +278,7 @@
   "yellow": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.black}"
+      "$value": "{colors.black.default}"
     },
     "fg": {
       "$type": "color",
@@ -296,7 +308,7 @@
   "teal": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",
@@ -326,7 +338,7 @@
   "purple": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",
@@ -356,7 +368,7 @@
   "pink": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",
@@ -386,7 +398,7 @@
   "cyan": {
     "contrast": {
       "$type": "color",
-      "$value": "{colors.white}"
+      "$value": "{colors.white.default}"
     },
     "fg": {
       "$type": "color",

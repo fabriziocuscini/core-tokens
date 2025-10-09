@@ -1,0 +1,29 @@
+{
+  "borderWidths": {
+    "xs": {
+      "$type": "borderWidth",
+      "$value": "0.3px",
+      "$description": "Extra small — ultra-thin hairline borders for subtle dividers."
+    },
+    "sm": {
+      "$type": "borderWidth",
+      "$value": "0.5px",
+      "$description": "Small — standard thin border for UI elements and outlines."
+    },
+    "md": {
+      "$type": "borderWidth",
+      "$value": "1px",
+      "$description": "Medium — noticeable border for emphasis or strong separation."
+    },
+    "lg": {
+      "$type": "borderWidth",
+      "$value": "2px",
+      "$description": "Large — bold border for cards, panels, or high-contrast elements."
+    },
+    "xl": {
+      "$type": "borderWidth",
+      "$value": "3px",
+      "$description": "Extra large — very thick border for decorative or standout designs."
+    }
+  }
+}

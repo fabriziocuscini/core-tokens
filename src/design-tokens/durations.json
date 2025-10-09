@@ -1,0 +1,39 @@
+{
+  "durations": {
+    "fastest": {
+      "$type": "number",
+      "$value": "50",
+      "$description": "Fastest speed for transitions and animations"
+    },
+    "faster": {
+      "$type": "number",
+      "$value": "100",
+      "$description": "Faster speed for transitions and animations"
+    },
+    "fast": {
+      "$type": "number",
+      "$value": "150",
+      "$description": "Fast speed for transitions and animations"
+    },
+    "moderate": {
+      "$type": "number",
+      "$value": "200",
+      "$description": "Moderate (default) speed for transitions and animations"
+    },
+    "slow": {
+      "$type": "number",
+      "$value": "300",
+      "$description": "Slow speed for transitions and animations"
+    },
+    "slower": {
+      "$type": "number",
+      "$value": "400",
+      "$description": "Slower speed for transitions and animations"
+    },
+    "slowest": {
+      "$type": "number",
+      "$value": "500",
+      "$description": "Slowest speed for transitions and animations"
+    }
+  }
+}
