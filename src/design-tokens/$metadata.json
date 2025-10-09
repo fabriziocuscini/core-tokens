@@ -1,7 +1,16 @@
 {
   "tokenSetOrder": [
-    "tokens",
+    "durations",
+    "borderWidths",
     "breakpoints",
-    "semanticTokens"
+    "radii",
+    "blurs",
+    "typography",
+    "spacing",
+    "colors",
+    "palette/light",
+    "palette/dark",
+    "viewports/lg",
+    "viewports/md"
   ]
 }

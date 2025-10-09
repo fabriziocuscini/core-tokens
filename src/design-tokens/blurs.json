@@ -1,0 +1,49 @@
+{
+  "blurs": {
+    "none": {
+      "$type": "sizing",
+      "$value": "0",
+      "$description": "No blur — fully sharp edges."
+    },
+    "xs": {
+      "$type": "sizing",
+      "$value": "2px",
+      "$description": "Extra small blur — ultra-subtle softening for fine details or delicate layering."
+    },
+    "sm": {
+      "$type": "sizing",
+      "$value": "4px",
+      "$description": "Small blur — gentle softening for subtle UI elements."
+    },
+    "md": {
+      "$type": "sizing",
+      "$value": "8px",
+      "$description": "Medium blur — balanced softness for shadows, surfaces, or backgrounds."
+    },
+    "lg": {
+      "$type": "sizing",
+      "$value": "12px",
+      "$description": "Large blur — visible softening for emphasis or layering."
+    },
+    "xl": {
+      "$type": "sizing",
+      "$value": "16px",
+      "$description": "Extra large blur — strong softness for overlays or glass effects."
+    },
+    "2xl": {
+      "$type": "sizing",
+      "$value": "24px",
+      "$description": "Double extra large blur — deep background separation and depth."
+    },
+    "3xl": {
+      "$type": "sizing",
+      "$value": "32px",
+      "$description": "Triple extra large blur — heavy atmospheric softness for dramatic depth."
+    },
+    "4xl": {
+      "$type": "sizing",
+      "$value": "48px",
+      "$description": "Quadruple extra large blur — extreme softness for immersive visual effects."
+    }
+  }
+}
