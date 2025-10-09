@@ -396,5 +396,133 @@
         "$value": "{colors.cyan.500}"
       }
     }
+  },
+  "shadows": {
+    "xs": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "1px",
+          "blur": "{blurs.xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.10}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "{blurs.2xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.20}",
+          "type": "dropShadow"
+        }
+      ]
+    },
+    "sm": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "2px",
+          "blur": "{blurs.sm}",
+          "spread": "0",
+          "color": "{colors.black.alpha.10}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "{blurs.2xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.30}",
+          "type": "dropShadow"
+        }
+      ]
+    },
+    "md": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "4px",
+          "blur": "{blurs.md}",
+          "spread": "0",
+          "color": "{colors.black.alpha.10}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "{blurs.2xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.30}",
+          "type": "dropShadow"
+        }
+      ]
+    },
+    "lg": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "8px",
+          "blur": "{blurs.lg}",
+          "spread": "0",
+          "color": "{colors.black.alpha.10}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "{blurs.2xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.30}",
+          "type": "dropShadow"
+        }
+      ]
+    },
+    "xl": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "16px",
+          "blur": "{blurs.xl}",
+          "spread": "0",
+          "color": "{colors.black.alpha.10}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "{blurs.2xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.30}",
+          "type": "dropShadow"
+        }
+      ]
+    },
+    "2xl": {
+      "$type": "boxShadow",
+      "$value": [
+        {
+          "x": "0",
+          "y": "24px",
+          "blur": "{blurs.2xl}",
+          "spread": "0",
+          "color": "{colors.black.alpha.15}",
+          "type": "dropShadow"
+        },
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "{blurs.2xs}",
+          "spread": "0",
+          "color": "{colors.black.alpha.30}",
+          "type": "dropShadow"
+        }
+      ]
+    }
   }
 }

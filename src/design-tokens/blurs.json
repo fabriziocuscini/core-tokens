@@ -5,6 +5,11 @@
       "$value": "0",
       "$description": "No blur — fully sharp edges."
     },
+    "2xs": {
+      "$type": "dimension",
+      "$value": "1px",
+      "$description": "Double extra small blur — tiniest softening for detailed shadow and blur composition."
+    },
     "xs": {
       "$type": "dimension",
       "$value": "2px",
@@ -32,7 +37,7 @@
     },
     "2xl": {
       "$type": "dimension",
-      "$value": "32px",
+      "$value": "40px",
       "$description": "Double extra large blur — deep background separation and depth."
     }
   }
