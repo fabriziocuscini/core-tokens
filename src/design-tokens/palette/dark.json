@@ -8,15 +8,19 @@
       "surface": {
         "level-1": {
           "$type": "color",
-          "$value": "{colors.gray.900}"
+          "$value": "{colors.gray.800}"
         },
         "level-2": {
           "$type": "color",
-          "$value": "{colors.gray.800}"
+          "$value": "{colors.gray.750}"
         },
         "level-3": {
           "$type": "color",
           "$value": "{colors.gray.700}"
+        },
+        "translucent": {
+          "$type": "color",
+          "$value": "rgba(0,0,0,0.6)"
         }
       },
       "inverted": {

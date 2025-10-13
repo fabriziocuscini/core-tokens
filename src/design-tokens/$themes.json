@@ -104,7 +104,8 @@
       "semantic.cyan.muted": "39f253a6d45fa7b2f3b3bec6bfad9e7cd0735dad",
       "semantic.cyan.emphasized": "20d417cbb264419458c87d66c2b0c5f4369eaa12",
       "semantic.cyan.solid": "3e5352e4a48957beef4e34c68db853814881f308",
-      "semantic.cyan.focusRing": "ee1f2227e1288ff45911c4671fcd749a13564537"
+      "semantic.cyan.focusRing": "ee1f2227e1288ff45911c4671fcd749a13564537",
+      "semantic.bg.surface.translucent": "6c5d6b8f67e0eff04ab5846f0fe399f57503baf3"
     },
     "group": "palette"
   },
@@ -274,6 +275,7 @@
       "semantic.cyan.emphasized": "20d417cbb264419458c87d66c2b0c5f4369eaa12",
       "semantic.cyan.solid": "3e5352e4a48957beef4e34c68db853814881f308",
       "semantic.cyan.focusRing": "ee1f2227e1288ff45911c4671fcd749a13564537",
+      "semantic.bg.surface.translucent": "6c5d6b8f67e0eff04ab5846f0fe399f57503baf3",
       "semantic.divider.error": "e10c30a47e91e267a083f148611da055c6d1bcea",
       "semantic.divider.warning": "c1ba89a1bff3e1141faefe1aed196bbbd3b937b3",
       "semantic.divider.success": "93371fd946940cdeb5375f3da1aac73101f58dca",
