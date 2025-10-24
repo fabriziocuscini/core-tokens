@@ -35,11 +35,11 @@
       },
       "muted": {
         "$type": "color",
-        "$value": "{colors.gray.400}"
+        "$value": "{colors.gray.600}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{colors.gray.500}"
+        "$value": "{colors.gray.700}"
       },
       "inverted": {
         "$type": "color",

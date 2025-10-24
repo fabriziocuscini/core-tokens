@@ -21,6 +21,7 @@
       "semantic.bg.surface.level-1": "a1858d7fbbbc175c11034d90d56b53aab27ffa4c",
       "semantic.bg.surface.level-2": "27270f1783ab6b40be5139eca4a4179e24aa7ad2",
       "semantic.bg.surface.level-3": "bf3a4f64766dae32ed39e273b922b1c5fa60ed97",
+      "semantic.bg.surface.translucent": "6c5d6b8f67e0eff04ab5846f0fe399f57503baf3",
       "semantic.bg.inverted": "7ddec14690ce2f73297a2140e6756edb1eecd2ed",
       "semantic.fg.default": "46ebbd4ccb2b6cd16ced5f02eb9eaf5f4d4ca0ef",
       "semantic.fg.muted": "5e4f063e7ae36cc1811eb22e240c04c1bccf1876",
@@ -104,8 +105,7 @@
       "semantic.cyan.muted": "39f253a6d45fa7b2f3b3bec6bfad9e7cd0735dad",
       "semantic.cyan.emphasized": "20d417cbb264419458c87d66c2b0c5f4369eaa12",
       "semantic.cyan.solid": "3e5352e4a48957beef4e34c68db853814881f308",
-      "semantic.cyan.focusRing": "ee1f2227e1288ff45911c4671fcd749a13564537",
-      "semantic.bg.surface.translucent": "6c5d6b8f67e0eff04ab5846f0fe399f57503baf3"
+      "semantic.cyan.focusRing": "ee1f2227e1288ff45911c4671fcd749a13564537"
     },
     "group": "palette"
   },
@@ -191,6 +191,7 @@
       "semantic.bg.surface.level-1": "a1858d7fbbbc175c11034d90d56b53aab27ffa4c",
       "semantic.bg.surface.level-2": "27270f1783ab6b40be5139eca4a4179e24aa7ad2",
       "semantic.bg.surface.level-3": "bf3a4f64766dae32ed39e273b922b1c5fa60ed97",
+      "semantic.bg.surface.translucent": "6c5d6b8f67e0eff04ab5846f0fe399f57503baf3",
       "semantic.bg.inverted": "7ddec14690ce2f73297a2140e6756edb1eecd2ed",
       "semantic.fg.default": "46ebbd4ccb2b6cd16ced5f02eb9eaf5f4d4ca0ef",
       "semantic.fg.muted": "5e4f063e7ae36cc1811eb22e240c04c1bccf1876",
@@ -275,7 +276,6 @@
       "semantic.cyan.emphasized": "20d417cbb264419458c87d66c2b0c5f4369eaa12",
       "semantic.cyan.solid": "3e5352e4a48957beef4e34c68db853814881f308",
       "semantic.cyan.focusRing": "ee1f2227e1288ff45911c4671fcd749a13564537",
-      "semantic.bg.surface.translucent": "6c5d6b8f67e0eff04ab5846f0fe399f57503baf3",
       "semantic.divider.error": "e10c30a47e91e267a083f148611da055c6d1bcea",
       "semantic.divider.warning": "c1ba89a1bff3e1141faefe1aed196bbbd3b937b3",
       "semantic.divider.success": "93371fd946940cdeb5375f3da1aac73101f58dca",
